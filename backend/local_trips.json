@@ -1,0 +1,552 @@
+[
+  {
+    "id": "6ed7c80e-b832-447f-8af6-4a558ad9722a",
+    "user_id": "demo_user",
+    "title": "Cultural Journey: The Best of Kyoto, Japan",
+    "destination": "Kyoto, Japan",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-04",
+    "budget": 1500.0,
+    "currency": "USD",
+    "travelers_count": 2,
+    "traveler_type": "couple",
+    "preferences": {
+      "destination": "Kyoto, Japan",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-04",
+      "budget": 1500,
+      "currency": "USD",
+      "travelers_count": 2,
+      "traveler_type": "couple",
+      "travel_interests": [
+        "culture",
+        "sightseeing"
+      ],
+      "travel_pace": "balanced",
+      "vibe": "cultural"
+    },
+    "vibe": "cultural",
+    "itinerary": {
+      "title": "Cultural Journey: The Best of Kyoto, Japan",
+      "destination": "Kyoto, Japan",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-04",
+      "total_days": 4,
+      "budget": 1500.0,
+      "currency": "USD",
+      "estimated_total_cost": 1274.4,
+      "vibe": "cultural",
+      "traveler_type": "couple",
+      "travelers_count": 2,
+      "days": [
+        {
+          "day_number": 1,
+          "date": "2026-11-01",
+          "theme": "Arrival & Kyoto, Japan City Center Orientation",
+          "activities": [
+            {
+              "id": "act-1-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Iconic Landmark & Walking Tour",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 56.2,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-1-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 75.0,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-1-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "relaxation",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 131.2,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 318.6,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        },
+        {
+          "day_number": 2,
+          "date": "2026-11-02",
+          "theme": "Cultural Deep-Dive & Historic Heritage",
+          "activities": [
+            {
+              "id": "act-2-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Old Quarter & Architecture Walk",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 56.2,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-2-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 75.0,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-2-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "relaxation",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 131.2,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 318.6,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        },
+        {
+          "day_number": 3,
+          "date": "2026-11-03",
+          "theme": "Scenic Viewpoints & Architectural Marvels",
+          "activities": [
+            {
+              "id": "act-3-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Old Quarter & Architecture Walk",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 56.2,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-3-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 75.0,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-3-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "relaxation",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 131.2,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 318.6,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        },
+        {
+          "day_number": 4,
+          "date": "2026-11-04",
+          "theme": "Local Culinary Markets & Neighborhood Exploration",
+          "activities": [
+            {
+              "id": "act-4-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Old Quarter & Architecture Walk",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 56.2,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-4-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 75.0,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-4-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "relaxation",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 131.2,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 318.6,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        }
+      ],
+      "planning_tips": [
+        "Pre-purchase city transport passes at Kyoto, Japan arrival hub to save up to 30% on intra-city rides.",
+        "Keep cash or small denominations handy for street food and independent market stalls in Kyoto, Japan.",
+        "All pricing and travel durations are estimates; check on-site ticketing for seasonal specials.",
+        "Wear comfortable walking shoes as historic districts often feature cobblestone walkways."
+      ],
+      "budget_breakdown": {
+        "activities": 509.76,
+        "dining": 509.76,
+        "transport": 191.16,
+        "misc": 63.72
+      }
+    },
+    "created_at": "2026-10-19T13:39:42.848366",
+    "updated_at": "2026-10-19T13:39:42.848366"
+  },
+  {
+    "title": "Cultural Journey: The Best of Kyoto, Japan",
+    "destination": "Kyoto, Japan",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-20",
+    "budget": 1800,
+    "currency": "USD",
+    "travelers_count": 2,
+    "traveler_type": "couple",
+    "preferences": {
+      "destination": "Kyoto, Japan",
+      "starting_location": "",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-20",
+      "budget": 1800,
+      "currency": "USD",
+      "travelers_count": 2,
+      "traveler_type": "couple",
+      "travel_interests": [
+        "sightseeing",
+        "food",
+        "culture"
+      ],
+      "travel_pace": "balanced",
+      "vibe": "cultural",
+      "accommodation_preference": "Mid-range Hotel",
+      "dietary_preferences": "No restrictions",
+      "additional_instructions": ""
+    },
+    "vibe": "cultural",
+    "itinerary": {
+      "title": "Cultural Journey: The Best of Kyoto, Japan",
+      "destination": "Kyoto, Japan",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-20",
+      "total_days": 5,
+      "budget": 1800,
+      "currency": "USD",
+      "estimated_total_cost": 1530,
+      "vibe": "cultural",
+      "traveler_type": "couple",
+      "travelers_count": 2,
+      "days": [
+        {
+          "day_number": 1,
+          "date": "2026-10-16",
+          "theme": "Arrival & Kyoto, Japan City Center Orientation",
+          "activities": [
+            {
+              "id": "act-1-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Iconic Landmark & Walking Tour",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 54,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-1-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 72,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-1-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "food",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 126,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 306,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        },
+        {
+          "day_number": 2,
+          "date": "2026-10-17",
+          "theme": "Cultural Deep-Dive & Historic Heritage",
+          "activities": [
+            {
+              "id": "act-2-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Old Quarter & Architecture Walk",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 54,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-2-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 72,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-2-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "food",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 126,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 306,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        },
+        {
+          "day_number": 3,
+          "date": "2026-10-18",
+          "theme": "Scenic Viewpoints & Architectural Marvels",
+          "activities": [
+            {
+              "id": "act-3-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Old Quarter & Architecture Walk",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 54,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-3-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 72,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-3-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "food",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 126,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 306,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        },
+        {
+          "day_number": 4,
+          "date": "2026-10-19",
+          "theme": "Local Culinary Markets & Neighborhood Exploration",
+          "activities": [
+            {
+              "id": "act-4-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Old Quarter & Architecture Walk",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 54,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-4-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 72,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-4-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "food",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 126,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 306,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        },
+        {
+          "day_number": 5,
+          "date": "2026-10-20",
+          "theme": "Nature Escapes & Hidden Gem Discovery",
+          "activities": [
+            {
+              "id": "act-5-1",
+              "period": "morning",
+              "time": "09:00 AM - 11:30 AM",
+              "title": "Kyoto, Japan Old Quarter & Architecture Walk",
+              "description": "Explore the vibrant heart of Kyoto, Japan, taking in historical facades and captivating photo spots.",
+              "category": "sightseeing",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 54,
+              "transport_tip": "10-15 minute walk from central accommodations or direct transit line",
+              "dining_recommendation": "Local Artisan Bakery & Espresso Bar in Kyoto, Japan",
+              "notes": "Morning visits offer softer lighting and fewer crowds."
+            },
+            {
+              "id": "act-5-2",
+              "period": "afternoon",
+              "time": "01:30 PM - 04:00 PM",
+              "title": "Signature Cultural Museum & Artisan District",
+              "description": "Immerse yourself in authentic exhibits showcasing regional heritage, art, and local craftsmanship.",
+              "category": "culture",
+              "estimated_duration": "2.5 hours",
+              "estimated_cost": 72,
+              "transport_tip": "Short 8-minute tram or metro ride from previous activity",
+              "dining_recommendation": "Traditional Bistro featuring No restrictions specialties",
+              "notes": "Audio guides or student/senior discount passes may be available."
+            },
+            {
+              "id": "act-5-3",
+              "period": "evening",
+              "time": "06:30 PM - 09:30 PM",
+              "title": "Sunset Waterfront Stroll & Gastronomic Dinner",
+              "description": "Watch the sunset over Kyoto, Japan followed by an intimate dining experience with ambient music and local wines/beverages.",
+              "category": "food",
+              "estimated_duration": "3 hours",
+              "estimated_cost": 126,
+              "transport_tip": "Convenient rideshare or pleasant promenade walkway",
+              "dining_recommendation": "Top-rated Dining Terrace overlooking Kyoto, Japan's illuminated skyline",
+              "notes": "Reservations recommended for dinner during peak travel hours."
+            }
+          ],
+          "estimated_daily_cost": 306,
+          "accommodation_suggestion": "Boutique Stay in Kyoto, Japan Central District (Mid-range Hotel)"
+        }
+      ],
+      "planning_tips": [
+        "Pre-purchase city transport passes at Kyoto, Japan arrival hub to save up to 30% on intra-city rides.",
+        "Keep cash or small denominations handy for street food and independent market stalls in Kyoto, Japan.",
+        "All pricing and travel durations are estimates; check on-site ticketing for seasonal specials.",
+        "Wear comfortable walking shoes as historic districts often feature cobblestone walkways."
+      ],
+      "budget_breakdown": {
+        "activities": 612,
+        "dining": 612,
+        "transport": 229.5,
+        "misc": 76.5
+      }
+    },
+    "id": "72410368-eef9-4557-ab73-2210b72e4e93",
+    "updated_at": "2026-10-16T09:19:21.723567",
+    "created_at": "2026-10-16T09:19:21.723567"
+  }
+]
